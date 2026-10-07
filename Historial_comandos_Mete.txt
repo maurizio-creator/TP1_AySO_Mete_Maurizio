@@ -1,0 +1,183 @@
+pedazo de ñoqui
+exit
+ls -l
+pwd
+cd .ssh
+ls-l
+ls -l
+ssh -keygen
+ssh -keygen -t
+ssh-keygen -t
+cd. ssh
+cs .ssh
+pwd
+cd .ssh
+ssh-keygen
+cd .ssh
+ls -l
+cat id_ed25519.pub 
+cd ..
+pwd
+ls -l
+mkdir repogit
+ls -l
+cd repogit/
+git clone
+gitclon [200~git@github.com:maurizio-creator/C113_Repositorio_Prueba.git~
+git clone [200~git@github.com:maurizio-creator/C113_Repositorio_Prueba.git~
+git clone git@github.com:maurizio-creator/C113_Repositorio_Prueba.git
+ls -l
+cd C113_Repositorio_Prueba/
+ls -l
+ls -la
+git status
+echo hola
+echo hola > saludo.txt
+ls -l
+cat saludo.txt
+git status
+git add .
+git status
+git commit -m "agregue saludo"
+git config --global user.email "metemaurizio281@gmail.com"
+git config --global user.name "Maurizio"
+git commit -m "agregue saludo"
+git status
+git push
+cd ..
+pwd
+cd ..
+pwd
+exit
+ls- l
+ls -
+ls -l
+pwd
+mkdir clase 4
+cd clase 4
+mkdir clase 4
+cd clase 43
+cd clase 4
+ls -l
+cd 4
+cat << FIN > archivo1.txt
+Linea 1
+linea 2
+linea 3
+linea 4
+linea 5 
+fin
+ls- l
+ls -
+FIN
+
+ls l
+ls -l
+cat archivo1.txt
+cat << EOF >
+FIN
+FIN 
+FIN 
+ 
+
+
+EOF
+
+cat << EOF > archivo2.txt
+LINEA 6
+LINEA 7
+EOF
+
+ls -l
+cat archivo1.txt archivo2.txt > archivo3.txt
+Linea1
+cat archivo3.txt
+grep 3 archivo3.txt
+grep -c 3 archivo3.txt
+grep -n  3 archivo3.txt
+grep -v 3 archivo3.txt
+grep linea archivo3.txt
+grep -v 3 archivo3.txt
+grep -linea archivo3.txt
+grep -i linea archivo3.txt
+grep -ic linea archivo3.txt
+grep -i linea4 archivo3.txt
+grep -i linea4 archivo3.txt | grep a 
+FIN
+grep -i linea4 archivo3.txt | grep a 
+exit
+pwd
+ls -l
+cd 4
+pwd
+ls -l
+cd ..
+exit
+git --versiob
+clear
+git --version
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+ssh -T git@github.com
+cd
+mkdir repogit
+git clone git@github.com:maurizio-creator/TP1_AySO_Mete_Maurizio.git
+cd TP1_AySO_Mete_Maurizio
+pwd
+ls -l
+cd
+mv TP1_AySO_Mete_Maurizio repogit/
+cd repogit/TP1_AySO_Mete_Maurizio
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt
+man grep
+grep -i HOME_URL /etc/os-release > datos_url.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+man grep
+-i
+grep -i HOME_URL /etc/os-release > datos_url.txt
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+```[cite: 18]
+git config --global user.email "metemaurizio281@gmail.com"
+git config --global user.name "Maurizio Mete"
+```[cite: 18]
+git commit -m "ADD: agregado 1er ejercicio sobre datos y urls"
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add .
+```
+git commit -m "feat: Añadiendo información de CPU"
+```[cite: 13]
+git add .
+git commit -m "feat: Añadiendo información de CPU"
+git push
+HereDoc
+heredoc
+cat <<EOF >> README.md
+Alumno: Tu Nombre y Apellido
+División: Tu Núm
+o
+
+clear
+finish
+
+reset
+cat <<EOF >> README.md
+Alumno: Maurizio Mete
+División: T113
+Turno: Manana
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p material/{uni1,uni2,uni3} materia2/{uni1,uni2,uni3}
+ls -R
+history -a
